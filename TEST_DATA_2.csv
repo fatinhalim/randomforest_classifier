@@ -1,0 +1,43 @@
+Name,LEARN,ML_CATEGORIES,ML_CATEGORIES_2,PROGRAMMING,PYTHON,DATA_STRUCTURES,DS_Q1,DS_Q2,STATISTICS,STAT_Q1,RATE
+Aidel Ibrahim,No,4,"Supervised, unsupervised, semi, reinforcement",Yes,No,No,queue,i'm not sure,No,"{(1, a), (2, a), (1, b), (2, b)}",Beginner
+Ahmad,No,2,"Supervised,unsupervised",Yes,No,Yes,i'm not sure,i'm not sure,No,I'm not sure,Intermediate
+KHOR PHILEMON,Yes,2,"Idk, Idk",Yes,No,Yes,list,linear search,No,"{(1, a), (2, a), (1, b), (2, b)}",Intermediate
+Cheong Chah Wei,Yes,2,Supervise unsupervised,Yes,Yes,Yes,stack,linear search,No,"{(1, a), (1, b), (2, a), (b, b)}",Intermediate
+Low Vincent ,No,1,Dont know,Yes,No,Yes,queue,merge sort,No,"{(1, a), (2, a), (1, b), (2, b)}",Beginner
+Juliano Rishi,No,1,Not sure,No,No,Yes,i'm not sure,i'm not sure,No,"{(1, a), (2, a), (1, b), (2, b)}",Beginner
+Jeremy Nathan,Yes,2,"Unsupervised Learning, Supervised Learning",Yes,Yes,No,list,none of the above,No,I'm not sure,Intermediate
+Govardhan Padmanabhan,No,2,"Supervised learning, Unsupervised learning",Yes,Yes,Yes,stack,linear search,No,"{(1, a), (1, b), (2, a), (b, b)}",Intermediate
+Voon Shun Jie,No,1,No idea,Yes,No,Yes,queue,i'm not sure,Yes,I'm not sure,Beginner
+Yee Xun Wei,Yes,3,"Supervised, Unsupervised, Reinforcement learning",Yes,Yes,Yes,stack,merge sort,Yes,"{(1, a), (1, b), (2, a), (b, b)}",Beginner
+Woon Jia Xin ,No,4,"Supervised machine learning, Unsupervised machine learning, Semi supervised learning and Reinforcement learning",Yes,No,No,i'm not sure,i'm not sure,No,"{(1, a), (2, a), (1, b), (2, b)}",Beginner
+Muhammad Aliff Danial Bin Mohd Zahiruddin ,No,2,"Machine learning, deep learning",Yes,No,Yes,list,linear search,No,I'm not sure,Intermediate
+Seow Chia Yi,Yes,3,"Supervised Learning, Unsupervised Learning, Reinforcement Learning",Yes,Yes,Yes,none of the above,linear search,Yes,"{(1, a), (2, a), (1, b), (2, b)}",Beginner
+Muhammad Amirul bin Harun,No,,,Yes,No,Yes,i'm not sure,merge sort,No,I'm not sure,Beginner
+Kew Jie Long ,Yes,2,supervisor;unsupervisor,Yes,Yes,Yes,none of the above,interpolation search,No,I'm not sure,Intermediate
+WONG YU KANG,Yes,3,"supervised, unsupervised, reinforcement learning",Yes,Yes,Yes,i'm not sure,i'm not sure,No,"{(1, a), (1, b), (2, a), (b, b)}",Beginner
+Muhammad Amir Arif,No,3,"Supervise, Semi-Supervise, Unsupervise",Yes,Yes,Yes,i'm not sure,i'm not sure,No,"{(1, a), (2, a), (1, b), (2, b)}",Beginner
+OOI KEE AUN,Yes,2,"Supervised,unsupervised",Yes,Yes,Yes,queue,interpolation search,No,"{(1, a), (2, a), (1, b), (2, b)}",Intermediate
+Ng Kam Woh,Yes,3,"reinforcement learning, unsupervised learning, supervised learning",Yes,Yes,Yes,list,linear search,Yes,"{(1, a), (2, a), (1, b), (2, b)}",Advanced
+Muhammad Azwan Bin Masri,No,1,Machine Learning,Yes,Yes,No,i'm not sure,i'm not sure,No,I'm not sure,Beginner
+Irsyad Shamsudin,No,,,Yes,No,Yes,i'm not sure,i'm not sure,No,"{(1, a), (1, b), (2, a), (b, b)}",Beginner
+Luqman Nur,No,3,"Supervised, Unsupervised, and Reinforcement",Yes,No,No,i'm not sure,i'm not sure,No,"{(1, a), (2, a), (1, b), (2, b)}",Beginner
+Liew Tjun Kit,Yes,,,Yes,Yes,Yes,i'm not sure,i'm not sure,No,I'm not sure,Beginner
+Mohamad Fadhil ,No,,,Yes,Yes,Yes,i'm not sure,i'm not sure,No,"{(1, a), (2, a), (1, b), (2, b)}",Beginner
+WONG GUAN SHENG,No,,,Yes,No,No,i'm not sure,linear search,No,I'm not sure,Beginner
+Sk Zobaid Ur Rahman ,No,,,Yes,No,Yes,none of the above,merge sort,Yes,"{(1, a), (2, a), (1, b), (2, b)}",Beginner
+Andre Tai,No,,,Yes,No,Yes,i'm not sure,i'm not sure,Yes,I'm not sure,Beginner
+MJ,No,,,Yes,Yes,Yes,i'm not sure,i'm not sure,Yes,"{(1, a), (2, a), (1, b), (2, b)}",Beginner
+Matin,Yes,3,"Supervised,Unsupervised,Reinforcement Learning",Yes,Yes,Yes,stack,merge sort,No,"{(1, a), (2, a), (1, b), (2, b)}",Beginner
+Aini Zainudin,No,,,Yes,No,Yes,i'm not sure,i'm not sure,No,"{(1, a), (2, a), (1, b), (2, b)}",Beginner
+ONG JIA AUN,Yes,3,"Supervised, unsupervised, semi-supervised",Yes,Yes,Yes,none of the above,interpolation search,No,"{(1, a), (2, a), (1, b), (2, b)}",Beginner
+NATHANIEL ONG YII TAK,No,,,Yes,No,No,stack,linear search,No,"{(1, a), (2, a), (1, b), (2, b)}",Beginner
+Rifat Bin Monsur,No,,,Yes,No,Yes,i'm not sure,linear search,No,"{(1, a), (2, a), (1, b), (2, b)}",Beginner
+Marsella,No,,,Yes,No,No,queue,interpolation search,Yes,"{(1, a), (2, a), (1, b), (2, b)}",Beginner
+Shahirah,No,,,No,No,No,i'm not sure,i'm not sure,Yes,"{(1, a), (2, a), (1, b), (2, b)}",Beginner
+Quah Jia Kai ,Yes,3,"Supervised learning, semi-supervised learning, unsupervised learning",Yes,No,Yes,stack,merge sort,No,"{(1, a), (2, a), (1, b), (2, b)}",Beginner
+Chan Guan Hao,Yes,2,"VERY DEEP LEARNING, Supervised Learning, Unsupervised Learning",Yes,Yes,Yes,queue,merge sort,No,"{(1, a), (2, a), (1, b), (2, b)}",Beginner
+Chee Wai Xiong,Yes,3,"Supervised, Unsupervised, Reinforced",Yes,Yes,Yes,list,i'm not sure,No,"{(1, a), (2, a), (1, b), (2, b)}",Beginner
+Nazrul islam,No,,,Yes,No,No,stack,i'm not sure,No,I'm not sure,Beginner
+Afrie Irham Bin Akram,Yes,2,,Yes,No,Yes,list,i'm not sure,No,"{(1, a), (1, b), (2, a), (b, b)}",Beginner
+Zi Liang Lim,No,2,"Supervised, unsupervised?",Yes,No,Yes,i'm not sure,merge sort,Yes,"{(1, a), (2, a), (1, b), (2, b)}",Intermediate
+Daniela Ganis,Yes,2,"supervised, unsupervised",Yes,Yes,Yes,stack,i'm not sure,Yes,"{(1, a), (2, a), (1, b), (2, b)}",Intermediate
